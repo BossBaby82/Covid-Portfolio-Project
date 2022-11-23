@@ -1,3 +1,6 @@
+-- Covid-19 Dataset exploration--
+
+
 select *from coviddeathscsv2
 order by 3,4;
 select * from covidvaccinationscsv
